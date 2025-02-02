@@ -1,1 +1,1 @@
-#Cursus 42 - Cammpus 42 Madrid
+# Cursus 42 - Campus 42 Madrid
