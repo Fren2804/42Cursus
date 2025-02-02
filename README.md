@@ -1,3 +1,4 @@
+#🔥🧱 In Progress 🧱🔥
 # Cursus 42 - Campus 42 Madrid
 
 Este es mi repositorio del Cursus 42, donde voy a subir todos mis proyectos finalizados y corregidos.
