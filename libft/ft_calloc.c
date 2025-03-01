@@ -21,10 +21,12 @@ void	*ft_calloc(size_t num, size_t size)
 	void	*matrix;
 
 	if (num == 0 || size == 0)
-		return (malloc(1));
+		return (ft_calloc(1, 1));
+	if ((~(unsigned long)0 / num) < size)
+		return (NULL);
 	matrix = malloc(num * size);
 	if (matrix == NULL)
 		return (NULL);
-	ft_memset(matrix, 0, num * size);
+	ft_bzero(matrix, num * size);
 	return (matrix);
 }
