@@ -8,7 +8,8 @@ Bienvenido a mi repositorio del **Cursus 42**, donde iré subiendo todos mis pro
 
 1. [Libft](https://github.com/Fren2804/Libft)🏠  
    1.1 [Explicación](#explicacion-libft)  
-3. [GetNextLine](https://github.com/Fren2804/42Cursus/tree/main/get_next_line)🏡 
+2. [GetNextLine](https://github.com/Fren2804/Get_Next_Line)🏡
+3. [Ft_Printf](https://github.com/Fren2804/Ft_Printf)🏡
 
 # Explicación
 
