@@ -12,7 +12,7 @@ Bienvenido a mi repositorio del **Cursus 42**, donde iré subiendo todos mis pro
    2.1 [Explicación](#explicacion-libft)
 3. [Ft_Printf](https://github.com/Fren2804/Ft_Printf)🏠  
    3.1 [Explicación](#explicacion-libft)
-4. [Born2beroot]🏠  
+4. Born2beroot🏠  
    4.1 [Explicación](#explicacion-libft)
 5. [Fdf](https://github.com/Fren2804/Fdf)🏠  
    5.1 [Explicación](#explicacion-libft)
@@ -20,7 +20,7 @@ Bienvenido a mi repositorio del **Cursus 42**, donde iré subiendo todos mis pro
    6.1 [Explicación](#explicacion-libft)
 7. [PushSwap](https://github.com/Fren2804/PushSwap)🏠  
    7.1 [Explicación](#explicacion-libft)
-8. [Exam02]🏠  
+8. Exam02🏠  
    8.1 [Explicación](#explicacion-libft)
 
 
