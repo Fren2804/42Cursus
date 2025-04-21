@@ -8,21 +8,22 @@ Bienvenido a mi repositorio del **Cursus 42**, donde iré subiendo todos mis pro
 
 1. [Libft](https://github.com/Fren2804/Libft)🏠  
    1.1 [Explicación](#explicacion-libft)
-1. [Libft](https://github.com/Fren2804/Libft)🏠  
-   1.1 [Explicación](#explicacion-libft)  
-3. [GetNextLine](https://github.com/Fren2804/Get_Next_Line)🏡
-
+2. [GetNextLine](https://github.com/Fren2804/Get_Next_Line)🏠  
    2.1 [Explicación](#explicacion-libft)
-4. [Ft_Printf](https://github.com/Fren2804/Ft_Printf)🏡
+3. [Ft_Printf](https://github.com/Fren2804/Ft_Printf)🏠  
    3.1 [Explicación](#explicacion-libft)
-5. [Born2beroot]🏡
+4. [Born2beroot]🏠  
    4.1 [Explicación](#explicacion-libft)
-6. [Ffd]🏡
+5. [Fdf](https://github.com/Fren2804/Fdf)🏠  
    5.1 [Explicación](#explicacion-libft)
-7. [Pipex]🏡
+6. [Pipex](https://github.com/Fren2804/Pipex)🏠  
    6.1 [Explicación](#explicacion-libft)
-8. [PushSwap]🏡
+7. [PushSwap](https://github.com/Fren2804/PushSwap)🏠  
    7.1 [Explicación](#explicacion-libft)
+8. [Exam02]🏠  
+   8.1 [Explicación](#explicacion-libft)
+
+
 
 # Explicación
 
