@@ -7,8 +7,10 @@ Bienvenido a mi repositorio del **Cursus 42**, donde iré subiendo todos mis pro
 ## Índice
 
 1. [Libft](https://github.com/Fren2804/Libft)🏠  
+   1.1 [Explicación](#explicacion-libft)
+1. [Libft](https://github.com/Fren2804/Libft)🏠  
    1.1 [Explicación](#explicacion-libft)  
-2. [GetNextLine](https://github.com/Fren2804/Get_Next_Line)🏡
+3. [GetNextLine](https://github.com/Fren2804/Get_Next_Line)🏡
 
    2.1 [Explicación](#explicacion-libft)
 4. [Ft_Printf](https://github.com/Fren2804/Ft_Printf)🏡
