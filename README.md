@@ -18,7 +18,7 @@ Bienvenido a mi repositorio del **Cursus 42**, donde iré subiendo todos mis pro
    5.1 [Explicación](#explicacion-libft)
 6. [Pipex](https://github.com/Fren2804/Pipex)🏠  
    6.1 [Explicación](#explicacion-libft)
-7. [PushSwap](https://github.com/Fren2804/PushSwap)🏠  
+7. [PushSwap](https://github.com/Fren2804/Push_Swap)🏠  
    7.1 [Explicación](#explicacion-libft)
 8. Exam02🏠  
    8.1 [Explicación](#explicacion-libft)
