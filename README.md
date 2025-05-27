@@ -27,8 +27,8 @@ Bienvenido a mi repositorio del **Cursus 42**, donde iré subiendo todos mis pro
 
 # Explicación
 
-## Libft
+## Explicacion Libft
 
-Este es el primer proyecto del campus 42, donde nos empiezan a poner ciertas pautas, y quieren que repliquemos muchas funciones originales, de las cuales necesitaremos más adelante. Es importante entender cada funcion, para que sirve y como funciona ya que seran nuestras siguientes herramientas en adelante.
-Aprendemos a hacer un makefile, como vincular todos los .c en un header para poder crear la librería.
+Este es el primer proyecto del campus 42, en el que se nos introducen ciertas pautas fundamentales y se nos pide replicar muchas funciones de la biblioteca estándar de C. Es crucial comprender cada función, su propósito y su funcionamiento, ya que esta librería con sus funciones serán herramientas clave para los próximos proyectos. Además, aprendemos a crear un Makefile y a vincular todos los archivos .c mediante un archivo de cabecera para poder generar la biblioteca completa.
 
+## Explicacion Get_Next_Line
