@@ -31,4 +31,12 @@ Bienvenido a mi repositorio del **Cursus 42**, donde iré subiendo todos mis pro
 
 Este es el primer proyecto del campus 42, en el que se nos introducen ciertas pautas fundamentales y se nos pide replicar muchas funciones de la biblioteca estándar de C. Es crucial comprender cada función, su propósito y su funcionamiento, ya que esta librería con sus funciones serán herramientas clave para los próximos proyectos. Además, aprendemos a crear un Makefile y a vincular todos los archivos .c mediante un archivo de cabecera para poder generar la biblioteca completa.
 
+## Resultado Libft
+
+![Libft Results](https://github.com/user-attachments/assets/11105315-a2a0-4cc2-8c29-3cc0c523f2e4)
+
+## Repositorio Libft
+
+https://github.com/Fren2804/Libft
+
 ## Explicacion Get_Next_Line
