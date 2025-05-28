@@ -94,4 +94,60 @@ Este proyecto nos ayuda a profundizar en la manipulación de datos espaciales, l
 
 ## Resultado Fdf
 
+
+
 ## Repositorio Fdf
+
+https://github.com/Fren2804/Fdf
+
+## Explicación Pipex
+
+El objetivo principal de este proyecto es comprender el funcionamiento de los procesos y la comunicación entre ellos, especialmente cómo la shell ejecuta los comandos y gestiona los errores. Nos adentramos en el uso de los pipes y las llamadas al sistema como fork, execve, dup2 y wait, fundamentales para la programación en C a nivel de sistema.
+
+Durante este proyecto, debemos implementar un programa que simule el comportamiento de la shell cuando encadenamos comandos usando el operador | (pipe). Esto implica redirigir las entradas y salidas estándar, gestionar correctamente la duplicación de descriptores de archivo y asegurarnos de que los errores se manejen de forma clara y robusta.
+
+Además, nos obliga a reforzar nuestra comprensión de la gestión de procesos en Unix/Linux y cómo los programas pueden comunicarse mediante pipes para trabajar en conjunto. Es un paso clave para desarrollar herramientas más complejas y aprender cómo funcionan los procesos en segundo plano y la ejecución de comandos en sistemas Unix.
+
+## Resultado Pipex
+
+
+
+## Repositorio Pipex
+
+https://github.com/Fren2804/Pipex
+
+## Explicación Push_Swap
+
+Este proyecto tiene como objetivo desarrollar un algoritmo eficiente para ordenar una pila de números utilizando un conjunto limitado de operaciones, simulando el comportamiento de un sistema de ordenación específico.
+
+En Push_Swap trabajamos con dos pilas (A y B) y disponemos de un conjunto de instrucciones básicas (sa, sb, pa, pb, ra, rb, rra, rrb, rr, rrr) que nos permiten realizar operaciones de intercambio, rotación y transferencia entre las pilas. La clave del proyecto es encontrar el algoritmo más eficiente posible, minimizando la cantidad de movimientos necesarios para ordenar completamente la pila A.
+
+Este proyecto nos obliga a pensar de manera lógica y estratégica, aplicando conceptos de algoritmos de ordenación y optimización. Además, refuerza nuestras habilidades en el manejo de estructuras de datos (pilas y listas enlazadas) y nos enseña la importancia de la eficiencia en la programación.
+
+## Resultado Push_Swap
+
+
+
+## Repositorio Push_Swap
+
+https://github.com/Fren2804/Push_Swap
+
+## Explicación Exam02
+
+En este primer examen, nos enfrentamos a 4 ejercicios aleatorios de distintos niveles de dificultad, ordenados de menor a mayor. Cada uno de estos ejercicios pone a prueba conceptos clave de C y nuestra capacidad para escribir código eficiente y correcto bajo presión.
+
+   Mis ejercicios fueron:
+
+⚫ Ejercicio 1 - Rotone
+En este ejercicio, se nos pide rotar cada carácter al siguiente en el alfabeto, de modo que 'a' se convierte en 'b' y 'Z' en 'A'. Esto nos obliga a trabajar con el sistema ASCII y la manipulación de caracteres.
+
+⚫ Ejercicio 2 - Reverse bits
+Aquí se trata de invertir los 8 bits de un número. Por ejemplo, el valor 0010 0110 debe transformarse en 0110 0010. Es un buen ejercicio para comprender la manipulación de bits y cómo operan las máscaras.
+
+⚫ Ejercicio 3 - Atoi_base
+Este fue el más desafiante para mí, ya que al principio no tuve en cuenta que la base podía contener letras mayúsculas y minúsculas simultáneamente (por ejemplo, 1aA es válido). Tuvimos que convertir una cadena en un número entero usando cualquier base que nos pasaran, lo que implica manejar la validación y conversión de caracteres de forma cuidadosa.
+
+⚫ Ejercicio 4 - Itoa
+Finalmente, el itoa consiste en convertir un número entero en una cadena de caracteres, respetando los signos y teniendo en cuenta el valor mínimo de los enteros (caso especial de INT_MIN en C).
+
+
