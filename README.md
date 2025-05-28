@@ -74,3 +74,24 @@ Este proyecto no solo nos permitió afianzar conceptos previos sobre cadenas y b
 
 https://github.com/Fren2804/Ft_printf
 
+## Explicación Born2beroot
+
+En este proyecto aprendemos a administrar y configurar un sistema operativo Linux desde cero, reforzando los fundamentos de la administración de sistemas. El objetivo es entender cómo instalar y configurar un servidor de manera segura, eficiente y siguiendo las buenas prácticas.
+
+Durante este proyecto, creamos una máquina virtual con Debian o Rocky con sus particiones y configuramos los usuarios, los grupos y los permisos adecuados para asegurar el sistema. También nos adentramos en la configuración de servicios esenciales, como el SSH, y en cómo aplicar políticas de seguridad con herramientas como ufw (cortafuegos) y sudo, para conceder permisos de administración de forma controlada.
+
+Uno de los aspectos más importantes de este proyecto es la implementación de políticas de contraseñas y la creación de un sistema que cumpla con los estándares de seguridad, lo que nos da una base sólida para la administración de servidores y nos prepara para entornos de producción reales.
+
+## Resultado Born2beroot
+
+## Explicación Fdf
+
+El proyecto FDF ya pertenece al nuevo círculo, donde se nos permite y se espera que utilicemos nuestra biblioteca libft, así como las funciones get_next_line y ft_printf que implementamos en proyectos anteriores. Además, este proyecto nos introduce a una nueva herramienta: la MiniLibX, una biblioteca gráfica sencilla diseñada para renderizar gráficos en 2D y 3D.
+
+El objetivo principal de este proyecto es leer un archivo que contiene un mapa con altitudes (y opcionalmente colores) y representarlo de forma gráfica en un entorno 3D utilizando proyecciones isométricas. Para lograrlo, debemos procesar correctamente los datos del archivo, interpretar las coordenadas y pintar los puntos en la ventana gráfica de MiniLibX.
+
+Este proyecto nos ayuda a profundizar en la manipulación de datos espaciales, las transformaciones geométricas y cómo renderizar elementos en una interfaz gráfica básica. Además, pone a prueba nuestras habilidades para integrar varias bibliotecas y reforzar conceptos clave de la programación estructurada.
+
+## Resultado Fdf
+
+## Repositorio Fdf
