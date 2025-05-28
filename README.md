@@ -139,15 +139,19 @@ En este primer examen, nos enfrentamos a 4 ejercicios aleatorios de distintos ni
    Mis ejercicios fueron:
 
 ⚫ Ejercicio 1 - Rotone
+
 En este ejercicio, se nos pide rotar cada carácter al siguiente en el alfabeto, de modo que 'a' se convierte en 'b' y 'Z' en 'A'. Esto nos obliga a trabajar con el sistema ASCII y la manipulación de caracteres.
 
 ⚫ Ejercicio 2 - Reverse bits
+
 Aquí se trata de invertir los 8 bits de un número. Por ejemplo, el valor 0010 0110 debe transformarse en 0110 0010. Es un buen ejercicio para comprender la manipulación de bits y cómo operan las máscaras.
 
 ⚫ Ejercicio 3 - Atoi_base
+
 Este fue el más desafiante para mí, ya que al principio no tuve en cuenta que la base podía contener letras mayúsculas y minúsculas simultáneamente (por ejemplo, 1aA es válido). Tuvimos que convertir una cadena en un número entero usando cualquier base que nos pasaran, lo que implica manejar la validación y conversión de caracteres de forma cuidadosa.
 
 ⚫ Ejercicio 4 - Itoa
+
 Finalmente, el itoa consiste en convertir un número entero en una cadena de caracteres, respetando los signos y teniendo en cuenta el valor mínimo de los enteros (caso especial de INT_MIN en C).
 
 
