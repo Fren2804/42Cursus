@@ -7,7 +7,7 @@ Bienvenido a mi repositorio del **Cursus 42**, donde iré subiendo todos mis pro
 ## Índice
 
 1. [Libft](https://github.com/Fren2804/Libft)🏠  
-   1.1 [Explicación](#explicacion-libft)
+   1.1 [Explicación](#explicación-libft)
 2. [Get_Next_Line](https://github.com/Fren2804/Get_Next_Line)🏠  
    2.1 [Explicación](#explicacion-get_next_line)
 3. [Ft_Printf](https://github.com/Fren2804/Ft_Printf)🏠  
@@ -27,7 +27,7 @@ Bienvenido a mi repositorio del **Cursus 42**, donde iré subiendo todos mis pro
 
 # Explicación
 
-## Explicacion Libft
+## Explicación Libft
 
 Este es el primer proyecto del campus 42, en el que se nos introducen ciertas pautas fundamentales y se nos pide replicar muchas de las funciones básicas de la biblioteca estándar de C. El objetivo principal es que comprendamos en profundidad cómo funcionan estas funciones, su propósito y cómo implementarlas correctamente, ya que formarán la base para los próximos proyectos.
 
@@ -43,7 +43,7 @@ La experiencia adquirida en este proyecto nos ayuda a dominar el manejo de memor
 
 https://github.com/Fren2804/Libft
 
-## Explicacion Get_Next_Line
+## Explicación Get_Next_Line
 
 Este fue mi segundo proyecto, en el que se nos pide implementar una función capaz de leer línea por línea desde un descriptor de archivo (fd) hasta alcanzar el final del mismo. El objetivo es crear una función que devuelva cada línea de texto, respetando los saltos de línea y sin perder información.
 
@@ -57,4 +57,7 @@ El reto consiste en gestionar correctamente los buffers de lectura, almacenar la
 ## Repositorio Libft
 
 https://github.com/Fren2804/Get_next_line
+
+## Explicación Ft_Printf
+
 
