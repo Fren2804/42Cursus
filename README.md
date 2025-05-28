@@ -53,6 +53,7 @@ El reto consiste en gestionar correctamente los buffers de lectura, almacenar la
 
 ## Resultado Get_Next_Line
 
+![GNL Results](https://github.com/user-attachments/assets/1ad5421b-b87a-4e28-9747-80757af13d87)
 
 ## Repositorio Get_Next_Line
 
@@ -68,7 +69,7 @@ Este proyecto no solo nos permitió afianzar conceptos previos sobre cadenas y b
 
 ## Resultado Ft_Printf
 
-
+![Printf Results](https://github.com/user-attachments/assets/6b7c017b-050f-4d59-adc0-a8d8bd9bd45f)
 
 ## Repositorio Ft_Printf
 
@@ -94,7 +95,7 @@ Este proyecto nos ayuda a profundizar en la manipulación de datos espaciales, l
 
 ## Resultado Fdf
 
-
+![FDF Results](https://github.com/user-attachments/assets/5f6202fa-6891-4383-a12e-2b66a334d3f2)
 
 ## Repositorio Fdf
 
@@ -110,7 +111,7 @@ Además, nos obliga a reforzar nuestra comprensión de la gestión de procesos e
 
 ## Resultado Pipex
 
-
+![Pipex Results](https://github.com/user-attachments/assets/967b3616-dace-4b41-912f-2f36b2a709bc)
 
 ## Repositorio Pipex
 
@@ -126,6 +127,7 @@ Este proyecto nos obliga a pensar de manera lógica y estratégica, aplicando co
 
 ## Resultado Push_Swap
 
+![Push Swap Results](https://github.com/user-attachments/assets/732e2423-e6b7-4930-be7f-2d1071cca999)
 
 
 ## Repositorio Push_Swap
@@ -154,4 +156,7 @@ Este fue el más desafiante para mí, ya que al principio no tuve en cuenta que 
 
 Finalmente, el itoa consiste en convertir un número entero en una cadena de caracteres, respetando los signos y teniendo en cuenta el valor mínimo de los enteros (caso especial de INT_MIN en C).
 
+## Resultado Exam02
+
+![Exam02 Results](https://github.com/user-attachments/assets/b3579911-ac15-40bb-a538-f8d93efe81d5)
 
