@@ -9,19 +9,19 @@ Bienvenido a mi repositorio del **Cursus 42**, donde iré subiendo todos mis pro
 1. [Libft](https://github.com/Fren2804/Libft)🏠  
    1.1 [Explicación](#explicación-libft)
 2. [Get_Next_Line](https://github.com/Fren2804/Get_Next_Line)🏠  
-   2.1 [Explicación](#explicacion-get_next_line)
+   2.1 [Explicación](#explicación-get_next_line)
 3. [Ft_Printf](https://github.com/Fren2804/Ft_Printf)🏠  
-   3.1 [Explicación](#explicacion-ft_printf)
+   3.1 [Explicación](#explicación-ft_printf)
 4. Born2beroot🏠  
-   4.1 [Explicación](#explicacion-born2beroot)
+   4.1 [Explicación](#explicación-born2beroot)
 5. [Fdf](https://github.com/Fren2804/FDF)🏠  
-   5.1 [Explicación](#explicacion-fdf)
+   5.1 [Explicación](#explicación-fdf)
 6. [Pipex](https://github.com/Fren2804/Pipex)🏠  
-   6.1 [Explicación](#explicacion-pipex)
+   6.1 [Explicación](#explicación-pipex)
 7. [Push_Swap](https://github.com/Fren2804/Push_Swap)🏠  
-   7.1 [Explicación](#explicacion-push_swap)
+   7.1 [Explicación](#explicación-push_swap)
 8. Exam02🏠  
-   8.1 [Explicación](#explicacion-exam02)
+   8.1 [Explicación](#explicación-exam02)
 
 
 
@@ -54,10 +54,23 @@ El reto consiste en gestionar correctamente los buffers de lectura, almacenar la
 ## Resultado Get_Next_Line
 
 
-## Repositorio Libft
+## Repositorio Get_Next_Line
 
 https://github.com/Fren2804/Get_next_line
 
 ## Explicación Ft_Printf
 
+En este proyecto teníamos que recrear la función printf, pero también se requería que la implementáramos como parte de una biblioteca, lo que nos devolvía a la creación de un Makefile para gestionar la compilación y vinculación de los archivos.
+
+Uno de los principales desafíos de este proyecto fue aprender a trabajar con argumentos variádicos en C, usando las macros de la biblioteca <stdarg.h> para gestionar múltiples argumentos de manera flexible. Además, nos centramos en cómo interpretar y formatear los datos de salida según las especificaciones de formato (como %d, %s, %p, etc.), así como en imprimirlos correctamente en la salida estándar.
+
+Este proyecto no solo nos permitió afianzar conceptos previos sobre cadenas y buffers, sino también adquirir habilidades avanzadas en el formateo y la gestión eficiente de datos. Fue una gran oportunidad para profundizar en la funcionalidad interna de una de las funciones más utilizadas en C.
+
+## Resultado Ft_Printf
+
+
+
+## Repositorio Ft_Printf
+
+https://github.com/Fren2804/Ft_printf
 
