@@ -22,6 +22,12 @@ Bienvenido a mi repositorio del **Cursus 42**, donde iré subiendo todos mis pro
    7.1 [Explicación](#explicación-push_swap)
 8. Exam02🏠  
    8.1 [Explicación](#explicación-exam02)
+9. [Philosophers](https://github.com/Fren2804/Philosophers)
+   9.1 [Explicación](#explicación-philosophers)
+10. [Minishell](https://github.com/Fren2804/Minishell)
+   10.1 [Explicación](#explicación-minishell)
+11. Exam03🏠
+   11.1 [Explicación](#explicación-exam03)
 
 
 
@@ -161,4 +167,40 @@ Finalmente, el itoa consiste en convertir un número entero en una cadena de car
 ## Resultado Exam02
 
 ![Exam02 Results](https://github.com/user-attachments/assets/b3579911-ac15-40bb-a538-f8d93efe81d5)
+
+## Explicación Philosophers
+
+El objetivo principal de este proyecto es comprender el funcionamiento de los hilos (threads), la sincronización entre ellos y los problemas clásicos de concurrencia, como el de los filósofos comensales.
+
+Durante este proyecto, debemos implementar una simulación del problema de los filósofos comensales, en el que varios filósofos se sientan alrededor de una mesa con un tenedor entre cada par. Cada filósofo necesita dos tenedores para comer, lo que nos obliga a gestionar cuidadosamente el acceso concurrente a los recursos compartidos usando mutexes.
+
+El proyecto se centra en aprender a evitar condiciones de carrera (race conditions), interbloqueos (deadlocks) y otros errores comunes en la programación concurrente. Esto se logra utilizando herramientas como pthread_create, pthread_mutex_lock, pthread_mutex_unlock, y otras funciones de la biblioteca pthread.
+
+Además, nos ayuda a reforzar nuestra comprensión del paralelismo y la sincronización en sistemas operativos Unix/Linux, elementos clave para escribir software eficiente y seguro en entornos concurrentes.
+
+## Resultado Philosophers
+
+<!-- ![Pipex Results](https://github.com/user-attachments/assets/967b3616-dace-4b41-912f-2f36b2a709bc) -->
+
+## Repositorio Philosophers
+
+https://github.com/Fren2804/Philosophers
+
+## Explicación Minishell
+
+El objetivo principal de este proyecto es implementar una versión simplificada de una shell de Unix (siguiendo el funcionamiento de como lo hace bash), permitiéndonos comprender cómo funciona internamente una shell real.
+
+Durante este proyecto, debemos gestionar la lectura de comandos del usuario, su interpretación (parsing), la ejecución de comandos internos, los built-in (como cd, echo, export, etc.) y externos, el manejo de variables de entorno, la redirección de entrada/salida (<, >, >>), los heredoc (<<), los pipes (|), y la gestión de señales (como Ctrl+C, Ctrl+\ y Ctrl+D).
+
+Esto implica un uso intensivo de llamadas al sistema como fork, execve, pipe, dup2, waitpid, así como estructuras de datos para organizar y ejecutar los comandos de forma correcta y robusta.
+
+Minishell es un proyecto clave para profundizar en la programación de bajo nivel en C, entender cómo los procesos y la comunicación entre ellos funcionan, y reforzar la lógica detrás de la construcción de herramientas similares a las que usamos diariamente en la terminal.
+
+## Resultado Minishell
+
+<!-- ![Pipex Results](https://github.com/user-attachments/assets/967b3616-dace-4b41-912f-2f36b2a709bc) -->
+
+## Repositorio Minishell
+
+https://github.com/Fren2804/Minishell
 
