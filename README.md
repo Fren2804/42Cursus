@@ -22,11 +22,11 @@ Bienvenido a mi repositorio del **Cursus 42**, donde iré subiendo todos mis pro
    7.1 [Explicación](#explicación-push_swap)
 8. Exam02🏠  
    8.1 [Explicación](#explicación-exam02)
-9. [Philosophers](https://github.com/Fren2804/Philosophers)
+10. [Philosophers](https://github.com/Fren2804/Philosophers)
    9.1 [Explicación](#explicación-philosophers)
-10. [Minishell](https://github.com/Fren2804/Minishell)
+11. [Minishell](https://github.com/Fren2804/Minishell)
    10.1 [Explicación](#explicación-minishell)
-11. Exam03🏠
+12. Exam03🏠
    11.1 [Explicación](#explicación-exam03)
 
 
