@@ -26,7 +26,7 @@ Bienvenido a mi repositorio del **Cursus 42**, donde iré subiendo todos mis pro
    9.1 [Explicación](#explicación-philosophers)
 10. [Minishell](https://github.com/Fren2804/Minishell)🏠  
    10.1 [Explicación](#explicación-minishell)
-11. Exam03🏠
+11. Exam03🏠  
    11.1 [Explicación](#explicación-exam03)
 
 
