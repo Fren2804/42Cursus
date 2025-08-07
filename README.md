@@ -172,11 +172,9 @@ Finalmente, el itoa consiste en convertir un número entero en una cadena de car
 
 El objetivo principal de este proyecto es comprender el funcionamiento de los hilos (threads), la sincronización entre ellos y los problemas clásicos de concurrencia, como el de los filósofos comensales.
 
-Durante este proyecto, debemos implementar una simulación del problema de los filósofos comensales, en el que varios filósofos se sientan alrededor de una mesa con un tenedor entre cada par. Cada filósofo necesita dos tenedores para comer, lo que nos obliga a gestionar cuidadosamente el acceso concurrente a los recursos compartidos usando mutexes.
+Durante este proyecto, debemos implementar una simulación del problema de los filósofos comensales, en el que varios filósofos se sientan alrededor de una mesa con un tenedor por cada filósofo. Y cada filósofo necesita dos tenedores para poder comer, lo que nos obliga a gestionar cuidadosamente el acceso concurrente a los recursos compartidos usando mutexes.
 
 El proyecto se centra en aprender a evitar condiciones de carrera (race conditions), interbloqueos (deadlocks) y otros errores comunes en la programación concurrente. Esto se logra utilizando herramientas como pthread_create, pthread_mutex_lock, pthread_mutex_unlock, y otras funciones de la biblioteca pthread.
-
-Además, nos ayuda a reforzar nuestra comprensión del paralelismo y la sincronización en sistemas operativos Unix/Linux, elementos clave para escribir software eficiente y seguro en entornos concurrentes.
 
 ## Resultado Philosophers
 
