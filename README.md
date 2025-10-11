@@ -1,5 +1,5 @@
 # 🔧🧱 In Progress 🧱🔧
-# 🏢Cursus 42 - Campus 42 Madrid 🇪🇸
+# 🏢42 Cursus - Campus 42 Madrid 🇪🇸
 
 Bienvenido a mi repositorio del **Cursus 42**, donde iré subiendo todos mis proyectos completados y corregidos. Aquí encontrarás implementaciones en C, estructuras de datos, algoritmos y otros ejercicios desarrollados en el marco del programa de formación de **42 Madrid**. Dentro de cada repositorio habrá mas información en detalle de cada proyecto.
 
