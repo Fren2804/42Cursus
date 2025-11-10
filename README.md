@@ -348,7 +348,7 @@ El objetivo es evitar errores críticos como el **interbloqueo**, y asegurar que
 
 ### ✅ Resultado
 
-![Philosophers Results](https://github.com/user-attachments/assets/e4a08b20-febd-408a-8141-db090ac7198f)
+![Philosophers Results](https://github.com/user-attachments/assets/3b291fb7-ffaa-4072-9ed8-0239910a9d67)
 
 ---
 
@@ -381,8 +381,7 @@ Este proyecto enseña cómo funcionan **los procesos, la entrada/salida y la com
 
 ### ✅ Resultado
 
-<!-- Imagen pendiente -->
-<!-- ![Minishell Results](https://github.com/user-attachments/assets/tu-imagen-aqui) -->
+![Minishell Results](https://github.com/user-attachments/assets/e4a08b20-febd-408a-8141-db090ac7198f)
 
 ---
 
