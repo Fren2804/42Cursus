@@ -40,9 +40,9 @@ En cada repositorio encontrarás una implementación completa, con su propia doc
 | 🔗 [Pipex](https://github.com/Fren2804/Pipex) | [Explicación](#-explicación-pipex) | Manejo de tuberías UNIX entre procesos. |
 | 🔄 [Push Swap](https://github.com/Fren2804/Push_Swap) | [Explicación](#-explicación-push_swap) | Algoritmo para ordenar con pila y operaciones limitadas. |
 | 🐚 [Minishell](https://github.com/Fren2804/Minishell) | [Explicación](#-explicación-minishell) | Shell personalizada que ejecuta comandos UNIX. |
+| 🍝 [Philosophers](https://github.com/Fren2804/Philosophers) | [Explicación](#-explicación-philosophers) | Resolución del problema de los filósofos con hilos. |
 | 🧊 [Cub3D](https://github.com/Fren2804/cub3D) | [Explicación](#-explicación-cub3d) | Motor 3D estilo Wolfenstein con raycasting. |
 | 🌐 [NetPractice](#explicación-netpractice) | [Explicación](#-explicación-netpractice) | Simulaciones de redes y resolución de topologías IP. |
-| 🍝 [Philosophers](https://github.com/Fren2804/Philosophers) | [Explicación](#-explicación-philosophers) | Resolución del problema de los filósofos con hilos. |
 
 ### 🧠 Exámenes
 
