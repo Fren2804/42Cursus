@@ -4,17 +4,20 @@
 ¡Bienvenido a mi repositorio del **Cursus 42**!  
 Aquí recopilo todos los proyectos desarrollados durante mi formación en **42 Madrid**, centrados principalmente en programación en **C**, estructuras de datos, algoritmos, sistemas operativos, redes y más.
 
-En cada repositorio encontrarás una implementación completa, con su propia documentación y explicaciones detalladas.
+En cada repositorio encontrarás una implementación completa, con su propia documentación y explicación detallada.
 
 ---
 
 ### 📌 ¿Qué encontrarás aquí?
 
-- 📄 Proyectos fundamentales de bajo nivel en C.
-- 🧠 Retos de lógica, optimización y estructura.
-- 🖥️ Simulaciones de sistemas reales (shells, pipelines, gráficos...).
-- 💾 Gestión de memoria, procesos, hilos y más.
+- 📄 Proyectos fundamentales de bajo nivel en **C**.
+- 🧠 Retos de lógica, optimización y estructuras algorítmicas.
+- 🖥️ Simulaciones de sistemas reales (shells, pipelines, motores gráficos...).
+- 💾 Gestión de memoria, procesos, hilos y concurrencia.
 - 🧪 Exámenes y pruebas técnicas del cursus.
+- 🧱 Desarrollo en **C++**, con clases, herencia, plantillas y módulos.
+- 🖧 Proyectos de **redes y administración de sistemas** en entornos Linux.
+- 📦 Implementación de **contenedores, servicios y máquinas virtuales**.
 
 ---
 
