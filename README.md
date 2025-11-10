@@ -453,6 +453,7 @@ A través de una interfaz interactiva, debemos resolver distintos **ejercicios d
 
 Aunque no se escribe código, este proyecto es crucial para desarrollar una **comprensión sólida de cómo se comunican los dispositivos en red**, algo esencial tanto en desarrollo como en administración de sistemas.
 Para el entendimiento y cálculo de redes, subredes e ips válidas use esta página como apoyo https://cidr.xyz.
+
 ---
 
 ### ✅ Resultado
