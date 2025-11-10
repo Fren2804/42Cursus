@@ -391,4 +391,85 @@ Este proyecto enseña cómo funcionan **los procesos, la entrada/salida y la com
 
 ---
 
+## 🧠 Explicación Exam03
+
+**Exam03** es el segundo examen del cursus, nos enfrentamos a un GNL o Printf
+---
+
+### 🧠 Ejercicio que me tocó
+
+🔹 **Ejercicio 1 - Get next line**  
+Consiste en implementar una función capaz de leer un archivo línea por línea a través de un descriptor de archivo (`fd`), devolviendo cada línea sin perder los saltos de línea. A diferencia del proyecto, podemos usar variables estáticas que nos facilita mucho el examen.
+
+---
+
+## 🧊 Explicación Cub3D
+
+**Cub3D** es un proyecto que introduce los conceptos básicos de los **motores gráficos en 3D**, utilizando técnicas como el **raycasting**, similares a las que usaban juegos clásicos como *Wolfenstein 3D*.
+
+El objetivo es representar un entorno 3D a partir de un mapa 2D, renderizando las paredes y permitiendo que el jugador se mueva e interactúe en tiempo real.
+
+---
+
+### 🧠 ¿Qué se aprende?
+
+- Uso avanzado de **MiniLibX** para gráficos en tiempo real.
+- Técnicas de **raycasting** para renderizar perspectivas 3D.
+- Cálculos matemáticos de distancias, ángulos y proyecciones.
+- Manejo de texturas, sprites y control de colisiones.
+- Lectura y validación de mapas en formato `.cub`.
+- Gestión de inputs (teclado y ratón) y bucles de renderizado.
+
+Este proyecto representa un paso clave hacia el desarrollo de **motores gráficos personalizados**, mejorando nuestras habilidades en matemáticas aplicadas, optimización, lógica espacial y manejo de recursos gráficos.
+
+---
+
+### ✅ Resultado
+
+![Cub3D Results](https://github.com/user-attachments/assets/tu-id-de-imagen-aquí)
+
+---
+
+### 📁 Repositorio
+
+🔗 [https://github.com/Fren2804/cub3D](https://github.com/Fren2804/cub3D)
+
+---
+
+## 🌐 Explicación NetPractice
+
+**NetPractice** es un proyecto orientado a introducirnos en los conceptos fundamentales de **redes informáticas**.  
+A través de una interfaz interactiva, debemos resolver distintos **ejercicios de conexión entre nodos**, simulando topologías de redes reales.
+
+---
+
+### 🧠 ¿Qué se aprende?
+
+- Principios básicos de **networking**: IP, subnetting, máscaras de red y gateways.
+- Configuración de redes locales y remotas.
+- Razonamiento lógico para resolver **problemas de conectividad**.
+- Análisis de rutas, saltos y direcciones válidas.
+- Diagnóstico y solución de errores de red comunes.
+
+Aunque no se escribe código, este proyecto es crucial para desarrollar una **comprensión sólida de cómo se comunican los dispositivos en red**, algo esencial tanto en desarrollo como en administración de sistemas.
+Para el entendimiento y cálculo de redes, subredes e ips válidas use esta página como ayuda ![Cidr](https://cidr.xyz)
+---
+
+### ✅ Resultado
+
+![NetPractice Results](https://github.com/user-attachments/assets/tu-id-de-imagen-aquí)
+
+---
+
+
+
+
+<!--
+## Explicación Push_Swap
+
+Este proyecto tiene como objetivo desarrollar un algoritmo eficiente para ordenar una pila de números utilizando un conjunto limitado de operaciones, simulando el comportamiento de un sistema de ordenación específico. En Push_Swap trabajamos con dos pilas (A y B) y disponemos de un conjunto de instrucciones básicas (sa, sb, pa, pb, ra, rb, rra, rrb, rr, rrr) que nos permiten realizar operaciones de intercambio, rotación y transferencia entre las pilas. La clave del proyecto es encontrar el algoritmo más eficiente posible, minimizando la cantidad de movimientos necesarios para ordenar completamente la pila A. Este proyecto nos obliga a pensar de manera lógica y estratégica, aplicando conceptos de algoritmos de ordenación y optimización. Además, refuerza nuestras habilidades en el manejo de estructuras de datos (pilas y listas enlazadas) y nos enseña la importancia de la eficiencia en la programación. 
+## Resultado Push_Swap 
+![Push Swap Results](https://github.com/user-attachments/assets/732e2423-e6b7-4930-be7f-2d1071cca999) 
+## Repositorio Push_Swap 
+https://github.com/Fren2804/Push_Swap-->
 
