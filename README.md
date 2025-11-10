@@ -25,47 +25,48 @@ En cada repositorio encontrarás una implementación completa, con su propia doc
 | Proyecto | Explicación | 📝 Descripción |
 |----------|-------------|----------------|
 | 🧱 [Libft](https://github.com/Fren2804/Libft) | [Explicación](#-explicación-libft) | Implementación desde cero de funciones estándar de C. |
-| 📄 [Get Next Line](https://github.com/Fren2804/Get_Next_Line) | [Explicación](#explicación-get_next_line) | Lectura línea por línea desde un `file descriptor`. |
-| 🖨️ [Ft_Printf](https://github.com/Fren2804/Ft_Printf) | [Explicación](#explicación-ft_printf) | Reimplementación de `printf` con flags, formatos y tipos. |
-| 🧑‍💻 [Born2beroot](#explicación-born2beroot) | [Explicación](#explicación-born2beroot) | Configuración de servidores y administración en Linux. |
+| 📄 [Get Next Line](https://github.com/Fren2804/Get_Next_Line) | [Explicación](#-explicación-get_next_line) | Lectura línea por línea desde un `file descriptor`. |
+| 🖨️ [Ft_Printf](https://github.com/Fren2804/Ft_Printf) | [Explicación](#-explicación-ft_printf) | Reimplementación de `printf` con flags, formatos y tipos. |
+| 🧑‍💻 [Born2beroot](#explicación-born2beroot) | [Explicación](#-explicación-born2beroot) | Configuración de servidores y administración en Linux. |
 
 ### 🧠 Proyectos Intermedios
 
 | Proyecto | Explicación | 📝 Descripción |
 |----------|-------------|----------------|
-| 🗺️ [FDF](https://github.com/Fren2804/FDF) | [Explicación](#explicación-fdf) | Visualización 3D de mapas en wireframe usando MLX. |
-| 🔗 [Pipex](https://github.com/Fren2804/Pipex) | [Explicación](#explicación-pipex) | Manejo de tuberías UNIX entre procesos. |
-| 🔄 [Push Swap](https://github.com/Fren2804/Push_Swap) | [Explicación](#explicación-push_swap) | Algoritmo para ordenar con pila y operaciones limitadas. |
-| 🐚 [Minishell](https://github.com/Fren2804/Minishell) | [Explicación](#explicación-minishell) | Shell personalizada que ejecuta comandos UNIX. |
-| 🧊 [Cub3D](https://github.com/Fren2804/cub3D) | [Explicación](#explicación-cub3d) | Motor 3D estilo Wolfenstein con raycasting. |
-| 🌐 [NetPractice](#explicación-netpractice) | [Explicación](#explicación-netpractice) | Simulaciones de redes y resolución de topologías IP. |
-| 🍝 [Philosophers](https://github.com/Fren2804/Philosophers) | [Explicación](#explicación-philosophers) | Resolución del problema de los filósofos con hilos. |
+| 🗺️ [FDF](https://github.com/Fren2804/FDF) | [Explicación](#-explicación-fdf) | Visualización 3D de mapas en wireframe usando MLX. |
+| 🔗 [Pipex](https://github.com/Fren2804/Pipex) | [Explicación](#-explicación-pipex) | Manejo de tuberías UNIX entre procesos. |
+| 🔄 [Push Swap](https://github.com/Fren2804/Push_Swap) | [Explicación](#-explicación-push_swap) | Algoritmo para ordenar con pila y operaciones limitadas. |
+| 🐚 [Minishell](https://github.com/Fren2804/Minishell) | [Explicación](#-explicación-minishell) | Shell personalizada que ejecuta comandos UNIX. |
+| 🧊 [Cub3D](https://github.com/Fren2804/cub3D) | [Explicación](#-explicación-cub3d) | Motor 3D estilo Wolfenstein con raycasting. |
+| 🌐 [NetPractice](#explicación-netpractice) | [Explicación](#-explicación-netpractice) | Simulaciones de redes y resolución de topologías IP. |
+| 🍝 [Philosophers](https://github.com/Fren2804/Philosophers) | [Explicación](#-explicación-philosophers) | Resolución del problema de los filósofos con hilos. |
 
 ### 🧠 Exámenes
 
 | Proyecto | Explicación | 📝 Descripción |
 |----------|-------------|----------------|
-| 🧠 [Exam02](#explicación-exam02) | [Explicación](#explicación-exam02) | Pruebas de lógica, memoria y manejo de archivos en C. |
-| 🧠 [Exam03](#explicación-exam03) | [Explicación](#explicación-exam03) | Evaluación avanzada de algoritmia y punteros. |
-| 🧠 [Exam04](#explicación-exam04) | [Explicación](#explicación-exam04) | Examen con retos de programación de nivel intermedio. |
-| 🧠 [Exam05](#explicación-exam04) | [Explicación](#explicación-exam05) | Evaluación práctica con retos de sistema. |
-| 🧠 [Exam06](#explicación-exam04) | [Explicación](#explicación-exam06) | Nivel superior con problemas complejos de diseño. |
+| 🧠 [Exam02](#explicación-exam02) | [Explicación](#-explicación-exam02) | Pruebas de lógica, memoria y manejo de archivos en C. |
+| 🧠 [Exam03](#explicación-exam03) | [Explicación](#-explicación-exam03) | Evaluación avanzada de algoritmia y punteros. |
+| 🧠 [Exam04](#explicación-exam04) | [Explicación](#-explicación-exam04) | Examen con retos de programación de nivel intermedio. |
+| 🧠 [Exam05](#explicación-exam04) | [Explicación](#-explicación-exam05) | Evaluación práctica con retos de sistema. |
+| 🧠 [Exam06](#explicación-exam04) | [Explicación](#-explicación-exam06) | Nivel superior con problemas complejos de diseño. |
 
 ### 🔵 Módulos C++
 
 | Proyecto | Explicación | 📝 Descripción |
 |----------|-------------|----------------|
-| 🔵 [CPP Module 0–4](https://github.com/Fren2804/CPP-Module-0-4) | [Explicación](#explicación-cpp-module-0-4) | Fundamentos de C++, clases, operadores y memoria. |
-| 🟣 [CPP Module 5–9](https://github.com/Fren2804/CPP-Module-5-9) | [Explicación](#explicación-cpp-module-5-9) | C++ avanzado: herencia, templates, containers STL. |
+| 🔵 [CPP Module 0–4](https://github.com/Fren2804/CPP-Module-0-4) | [Explicación](#-explicación-cpp-module-0-4) | Fundamentos de C++, clases, operadores y memoria. |
+| 🟣 [CPP Module 5–9](https://github.com/Fren2804/CPP-Module-5-9) | [Explicación](#-explicación-cpp-module-5-9) | C++ avanzado: herencia, templates, containers STL. |
 
 ### 🚀 Proyectos Finales
 
 | Proyecto | Explicación | 📝 Descripción |
 |----------|-------------|----------------|
-| 🏗️ [Inception](https://github.com/Fren2804/Inception) | [Explicación](#explicación-inception) | Infraestructura de contenedores con Docker y servicios. |
-| 💬 [IRC](https://github.com/Fren2804/Irc) | [Explicación](#explicación-irc) | Servidor IRC funcional bajo el protocolo RFC1459. |
-| 🌌 [Transcendence](https://github.com/Fren2804/Transcendence) | [Explicación](#explicación-transcendence) | Proyecto web full-stack con NestJS, PostgreSQL y más. |
+| 🏗️ [Inception](https://github.com/Fren2804/Inception) | [Explicación](#-explicación-inception) | Infraestructura de contenedores con Docker y servicios. |
+| 💬 [IRC](https://github.com/Fren2804/Irc) | [Explicación](#-explicación-irc) | Servidor IRC funcional bajo el protocolo RFC1459. |
+| 🌌 [Transcendence](https://github.com/Fren2804/Transcendence) | [Explicación](#-explicación-transcendence) | Proyecto web full-stack con NestJS, PostgreSQL y más. |
 
+---
 
 ## 🧱 Explicación Libft
 
