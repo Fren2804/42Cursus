@@ -83,6 +83,8 @@ Este proyecto nos enseña a **pensar como desarrolladores de bajo nivel**, prest
 
 🔗 [https://github.com/Fren2804/Libft](https://github.com/Fren2804/Libft)
 
+---
+
 
 ## 📄 Explicación Get_Next_Line
 
@@ -113,6 +115,8 @@ En este proyecto solo se permiten **dos archivos `.c` y un `.h`**, y no se exige
 
 🔗 [https://github.com/Fren2804/Get_next_line](https://github.com/Fren2804/Get_next_line)
 
+---
+
 
 ## 🖨️ Explicación Ft_Printf
 
@@ -142,6 +146,8 @@ Este proyecto refuerza la comprensión de las **funciones de salida y del format
 ### 📁 Repositorio
 
 🔗 [https://github.com/Fren2804/Ft_printf](https://github.com/Fren2804/Ft_printf)
+
+---
 
 
 ## 🧑‍💻 Explicación Born2beroot
