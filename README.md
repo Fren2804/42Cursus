@@ -30,7 +30,7 @@ En cada repositorio encontrarás una implementación completa, con su propia doc
 | 🧱 [Libft](https://github.com/Fren2804/Libft) | [Explicación](#-explicación-libft) | Implementación desde cero de funciones estándar de C. |
 | 📄 [Get Next Line](https://github.com/Fren2804/Get_Next_Line) | [Explicación](#-explicación-get_next_line) | Lectura línea por línea desde un `file descriptor`. |
 | 📝 [Ft_Printf](https://github.com/Fren2804/Ft_Printf) | [Explicación](#-explicación-ft_printf) | Reimplementación de `printf` con flags, formatos y tipos. |
-| 💻 [Born2beroot](#explicación-born2beroot) | [Explicación](#-explicación-born2beroot) | Configuración de servidores y administración en Linux. |
+| 💻 [Born2beroot](#-explicación-born2beroot) | [Explicación](#-explicación-born2beroot) | Configuración de servidores y administración en Linux. |
 
 ### 🧠 Proyectos Intermedios
 
@@ -42,17 +42,17 @@ En cada repositorio encontrarás una implementación completa, con su propia doc
 | 🐚 [Minishell](https://github.com/Fren2804/Minishell) | [Explicación](#-explicación-minishell) | Shell personalizada que ejecuta comandos UNIX. |
 | 🍝 [Philosophers](https://github.com/Fren2804/Philosophers) | [Explicación](#-explicación-philosophers) | Resolución del problema de los filósofos con hilos. |
 | 🧊 [Cub3D](https://github.com/Fren2804/cub3D) | [Explicación](#-explicación-cub3d) | Motor 3D estilo Wolfenstein con raycasting. |
-| 🌐 [NetPractice](#explicación-netpractice) | [Explicación](#-explicación-netpractice) | Simulaciones de redes y resolución de topologías IP. |
+| 🌐 [NetPractice](#-explicación-netpractice) | [Explicación](#-explicación-netpractice) | Simulaciones de redes y resolución de topologías IP. |
 
 ### 🧠 Exámenes
 
 | Proyecto | Explicación | 📝 Descripción |
 |----------|-------------|----------------|
-| 🧠 [Exam02](#explicación-exam02) | [Explicación](#-explicación-exam02) | Pruebas de lógica, memoria y manejo de archivos en C. |
-| 🧠 [Exam03](#explicación-exam03) | [Explicación](#-explicación-exam03) | Evaluación avanzada de algoritmia y punteros. |
-| 🧠 [Exam04](#explicación-exam04) | [Explicación](#-explicación-exam04) | Examen con retos de programación de nivel intermedio. |
-| 🧠 [Exam05](#explicación-exam04) | [Explicación](#-explicación-exam05) | Evaluación práctica con retos de sistema. |
-| 🧠 [Exam06](#explicación-exam04) | [Explicación](#-explicación-exam06) | Nivel superior con problemas complejos de diseño. |
+| 🧠 [Exam02](#-explicación-exam02) | [Explicación](#-explicación-exam02) | Pruebas de lógica, memoria y manejo de archivos en C. |
+| 🧠 [Exam03](#-explicación-exam03) | [Explicación](#-explicación-exam03) | Evaluación avanzada de algoritmia y punteros. |
+| 🧠 [Exam04](#-explicación-exam04) | [Explicación](#-explicación-exam04) | Examen con retos de programación de nivel intermedio. |
+| 🧠 [Exam05](#-explicación-exam04) | [Explicación](#-explicación-exam05) | Evaluación práctica con retos de sistema. |
+| 🧠 [Exam06](#-explicación-exam04) | [Explicación](#-explicación-exam06) | Nivel superior con problemas complejos de diseño. |
 
 ### 🔵 Módulos C++
 
