@@ -397,6 +397,12 @@ Este proyecto enseña cómo funcionan **los procesos, la entrada/salida y la com
 
 ---
 
+### ✅ Resultado
+
+![Exam03 Results](https://github.com/user-attachments/assets/69a9f672-78d4-4552-a9a8-56fd166b6931)
+
+---
+
 ### 🧠 Ejercicio que me tocó
 
 🔹 **Ejercicio 1 - Get next line**  
