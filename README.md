@@ -1,7 +1,7 @@
 # 🔧🧱 In Progress 🧱🔧
 # 🏢42 Cursus - Campus 42 Madrid 🇪🇸
 
-Bienvenido a mi repositorio del **Cursus 42**, donde iré subiendo todos mis proyectos completados y corregidos. Aquí encontrarás implementaciones en C, estructuras de datos, algoritmos y otros ejercicios desarrollados en el marco del programa de formación de **42 Madrid**. Dentro de cada repositorio habrá mas información en detalle de cada proyecto.
+Bienvenido a mi repositorio del **Cursus 42**. Aquí encontrarás implementaciones en C, estructuras de datos, algoritmos y otros ejercicios desarrollados en el marco del programa de formación de **42 Madrid**. Dentro de cada repositorio habrá mas información en detalle de cada proyecto.
 
 ---
 
@@ -54,65 +54,117 @@ Bienvenido a mi repositorio del **Cursus 42**, donde iré subiendo todos mis pro
 | 🌌 [Transcendence](https://github.com/Fren2804/Transcendence) | [Explicación](#explicación-transcendence) | Proyecto web full-stack con NestJS, PostgreSQL y más. |
 
 
-# Explicación
+## 🧱 Explicación Libft
 
-## Explicación Libft
+**Libft** es el primer proyecto del campus 42. Se trata de una reimplementación de muchas funciones estándar de la biblioteca de C.  
+El objetivo principal es comprender en profundidad su funcionamiento, su utilidad y cómo implementarlas correctamente desde cero, ya que serán la base de muchos proyectos posteriores.
 
-Este es el primer proyecto del campus 42, en el que se nos introducen ciertas pautas fundamentales y se nos pide replicar muchas de las funciones básicas de la biblioteca estándar de C. El objetivo principal es que comprendamos en profundidad cómo funcionan estas funciones, su propósito y cómo implementarlas correctamente, ya que formarán la base para los próximos proyectos.
+---
 
-Durante este proyecto, aprendemos a crear un Makefile que automatiza la compilación y generación de la biblioteca. También nos enfocamos en vincular todos los archivos .c mediante un archivo de cabecera .h, lo que nos permite generar una biblioteca completamente funcional.
+### 🧠 ¿Qué se aprende?
 
-La experiencia adquirida en este proyecto nos ayuda a dominar el manejo de memoria dinámica, las cadenas de caracteres y otras operaciones fundamentales en C, sentando las bases para convertirnos en desarrolladores más sólidos y organizados.
+- Manejo de memoria dinámica en C.
+- Manipulación de cadenas y arrays.
+- Organización del código en archivos `.c` y `.h`.
+- Creación de un Makefile para compilar una librería estática.
+- Normas de estilo y buenas prácticas de programación.
 
-## Resultado Libft
+Este proyecto nos enseña a **pensar como desarrolladores de bajo nivel**, prestando atención al detalle, la optimización y el diseño limpio del código.
+
+---
+
+### ✅ Resultado
 
 ![Libft Results](https://github.com/user-attachments/assets/11105315-a2a0-4cc2-8c29-3cc0c523f2e4)
 
-## Repositorio Libft
+---
 
-https://github.com/Fren2804/Libft
+### 📁 Repositorio
 
-## Explicación Get_Next_Line
+🔗 [https://github.com/Fren2804/Libft](https://github.com/Fren2804/Libft)
 
-Este fue mi segundo proyecto, en el que se nos pide implementar una función capaz de leer línea por línea desde un descriptor de archivo (fd) hasta alcanzar el final del mismo. El objetivo es crear una función que devuelva cada línea de texto, respetando los saltos de línea y sin perder información.
 
-En este proyecto solo se permiten dos archivos .c y un archivo de cabecera .h, y no es necesario crear un Makefile, ya que se centra únicamente en la lógica de lectura.
+## 📄 Explicación Get_Next_Line
 
-El reto consiste en gestionar correctamente los buffers de lectura, almacenar la información leída y manejar posibles errores o finales de archivo. Es un excelente ejercicio para entender la gestión de la memoria dinámica, el control de lectura de archivos y cómo manipular cadenas en C.
+**Get Next Line** es el segundo proyecto del campus 42.  
+Consiste en implementar una función capaz de leer un archivo línea por línea a través de un descriptor de archivo (`fd`), devolviendo cada línea sin perder los saltos de línea.
 
-## Resultado Get_Next_Line
+---
+
+### 🧠 ¿Qué se aprende?
+
+- Lectura fragmentada desde un descriptor de archivo.
+- Gestión de buffers y almacenamiento temporal.
+- Uso de memoria dinámica para construir cadenas de texto.
+- Manipulación eficiente de punteros y strings en C.
+- Manejo de condiciones de fin de archivo y errores.
+
+En este proyecto solo se permiten **dos archivos `.c` y un `.h`**, y no se exige Makefile. Se trata de un desafío muy útil para entender cómo funciona la lectura por partes y cómo construir una lógica robusta de acumulación y entrega de datos.
+
+---
+
+### ✅ Resultado
 
 ![GNL Results](https://github.com/user-attachments/assets/1ad5421b-b87a-4e28-9747-80757af13d87)
 
-## Repositorio Get_Next_Line
+---
 
-https://github.com/Fren2804/Get_next_line
+### 📁 Repositorio
 
-## Explicación Ft_Printf
+🔗 [https://github.com/Fren2804/Get_next_line](https://github.com/Fren2804/Get_next_line)
 
-En este proyecto teníamos que recrear la función printf, pero también se requería que la implementáramos como parte de una biblioteca, lo que nos devolvía a la creación de un Makefile para gestionar la compilación y vinculación de los archivos.
 
-Uno de los principales desafíos de este proyecto fue aprender a trabajar con argumentos variádicos en C, usando las macros de la biblioteca <stdarg.h> para gestionar múltiples argumentos de manera flexible. Además, nos centramos en cómo interpretar y formatear los datos de salida según las especificaciones de formato (como %d, %s, %p, etc.), así como en imprimirlos correctamente en la salida estándar.
+## 🖨️ Explicación Ft_Printf
 
-Este proyecto no solo nos permitió afianzar conceptos previos sobre cadenas y buffers, sino también adquirir habilidades avanzadas en el formateo y la gestión eficiente de datos. Fue una gran oportunidad para profundizar en la funcionalidad interna de una de las funciones más utilizadas en C.
+**Ft_Printf** es el tercer proyecto del campus 42.  
+En él, se nos pide **recrear la función `printf`**, pero implementándola como parte de una **librería**, lo que nos lleva nuevamente a crear un **Makefile** para gestionar la compilación y vinculación de los archivos.
 
-## Resultado Ft_Printf
+---
+
+### 🧠 ¿Qué se aprende?
+
+- Uso de **argumentos variádicos** en C mediante `<stdarg.h>`.
+- Interpretación y formateo de los distintos **especificadores de formato** (`%d`, `%s`, `%p`, `%x`, etc.).
+- Conversión de datos a texto y su impresión en la salida estándar.
+- Manejo de buffers, strings y funciones reutilizables.
+- Organización modular del código y compilación de librerías.
+
+Este proyecto refuerza la comprensión de las **funciones de salida y del formateo de datos**, permitiéndonos entender cómo trabaja internamente una de las funciones más emblemáticas del lenguaje C.
+
+---
+
+### ✅ Resultado
 
 ![Printf Results](https://github.com/user-attachments/assets/6b7c017b-050f-4d59-adc0-a8d8bd9bd45f)
 
-## Repositorio Ft_Printf
+---
 
-https://github.com/Fren2804/Ft_printf
+### 📁 Repositorio
 
-## Explicación Born2beroot
+🔗 [https://github.com/Fren2804/Ft_printf](https://github.com/Fren2804/Ft_printf)
 
-En este proyecto aprendemos a administrar y configurar un sistema operativo Linux desde cero, reforzando los fundamentos de la administración de sistemas. El objetivo es entender cómo instalar y configurar un servidor de manera segura, eficiente y siguiendo las buenas prácticas.
 
-Durante este proyecto, creamos una máquina virtual con Debian o Rocky con sus particiones y configuramos los usuarios, los grupos y los permisos adecuados para asegurar el sistema. También nos adentramos en la configuración de servicios esenciales, como el SSH, y en cómo aplicar políticas de seguridad con herramientas como ufw (cortafuegos) y sudo, para conceder permisos de administración de forma controlada.
+## 🧑‍💻 Explicación Born2beroot
 
-Uno de los aspectos más importantes de este proyecto es la implementación de políticas de contraseñas y la creación de un sistema que cumpla con los estándares de seguridad, lo que nos da una base sólida para la administración de servidores y nos prepara para entornos de producción reales.
+**Born2beroot** es un proyecto orientado a introducirnos en la **administración de sistemas Linux** desde cero.  
+El objetivo es aprender a instalar, configurar y asegurar un servidor siguiendo buenas prácticas del mundo real.
 
-## Resultado Born2beroot
+---
+
+### 🧠 ¿Qué se aprende?
+
+- Instalación de una **máquina virtual** con Debian o Rocky Linux.
+- Creación y particionado manual del disco.
+- Configuración de usuarios, grupos y permisos.
+- Activación y securización del acceso **SSH**.
+- Aplicación de **políticas de contraseñas** seguras.
+- Configuración de herramientas clave como `sudo` y `ufw` (cortafuegos).
+
+El proyecto hace hincapié en la **seguridad del sistema**, enseñando cómo protegerlo desde su instalación, y cómo establecer controles de acceso robustos para usuarios y administradores.
+
+---
+
+### ✅ Resultado
 
 ![Born2beroot Results](https://github.com/user-attachments/assets/01201ea8-6903-4b34-80fe-6bd01c795fe2)
 
