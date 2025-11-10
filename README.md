@@ -30,13 +30,13 @@ En cada repositorio encontrarás una implementación completa, con su propia doc
 | 🧱 [Libft](https://github.com/Fren2804/Libft) | [Explicación](#-explicación-libft) | Implementación desde cero de funciones estándar de C. |
 | 📄 [Get Next Line](https://github.com/Fren2804/Get_Next_Line) | [Explicación](#-explicación-get_next_line) | Lectura línea por línea desde un `file descriptor`. |
 | 📝 [Ft_Printf](https://github.com/Fren2804/Ft_Printf) | [Explicación](#-explicación-ft_printf) | Reimplementación de `printf` con flags, formatos y tipos. |
-| 🧑‍💻 [Born2beroot](#explicación-born2beroot) | [Explicación](#-explicación-born2beroot) | Configuración de servidores y administración en Linux. |
+| 💻 [Born2beroot](#explicación-born2beroot) | [Explicación](#-explicación-born2beroot) | Configuración de servidores y administración en Linux. |
 
 ### 🧠 Proyectos Intermedios
 
 | Proyecto | Explicación | 📝 Descripción |
 |----------|-------------|----------------|
-| 🗺️ [FDF](https://github.com/Fren2804/FDF) | [Explicación](#-explicación-fdf) | Visualización 3D de mapas en wireframe usando MLX. |
+| 🗻 [FDF](https://github.com/Fren2804/FDF) | [Explicación](#-explicación-fdf) | Visualización 3D de mapas en wireframe usando MLX. |
 | 🔗 [Pipex](https://github.com/Fren2804/Pipex) | [Explicación](#-explicación-pipex) | Manejo de tuberías UNIX entre procesos. |
 | 🔄 [Push Swap](https://github.com/Fren2804/Push_Swap) | [Explicación](#-explicación-push_swap) | Algoritmo para ordenar con pila y operaciones limitadas. |
 | 🐚 [Minishell](https://github.com/Fren2804/Minishell) | [Explicación](#-explicación-minishell) | Shell personalizada que ejecuta comandos UNIX. |
@@ -167,7 +167,7 @@ Este proyecto refuerza la comprensión de las **funciones de salida y del format
 ---
 
 
-## 🧑‍💻 Explicación Born2beroot
+## 💻 Explicación Born2beroot
 
 **Born2beroot** es un proyecto orientado a introducirnos en la **administración de sistemas Linux** desde cero.  
 El objetivo es aprender a instalar, configurar y asegurar un servidor siguiendo buenas prácticas del mundo real.
@@ -191,7 +191,7 @@ El proyecto hace hincapié en la **seguridad del sistema**, enseñando cómo pro
 
 ![Born2beroot Results](https://github.com/user-attachments/assets/01201ea8-6903-4b34-80fe-6bd01c795fe2)
 
-## 🗺️ Explicación FDF
+## 🗻 Explicación FDF
 
 **FDF** marca el inicio del nuevo círculo de proyectos, donde se espera que integremos nuestras librerías anteriores:  
 `libft`, `get_next_line` y `ft_printf`.
