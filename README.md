@@ -9,53 +9,27 @@ Bienvenido a mi repositorio del **Cursus 42**, donde iré subiendo todos mis pro
 
 | 🧩 Proyecto | 📖 Explicación |
 |------------|----------------|
-| 🧱 [Libft](https://github.com/Fren2804/Libft) | [1.1 Explicación](#explicación-libft) |
-| 📄 [Get Next Line](https://github.com/Fren2804/Get_Next_Line) | [2.1 Explicación](#explicación-get_next_line) |
-| 🖨️ [Ft_Printf](https://github.com/Fren2804/Ft_Printf) | [3.1 Explicación](#explicación-ft_printf) |
-| 🧑‍💻 [Born2beroot](#explicación-born2beroot) | [4.1 Explicación](#explicación-born2beroot) |
-| 🗺️ [Fdf](https://github.com/Fren2804/FDF) | [5.1 Explicación](#explicación-fdf) |
-| 🔗 [Pipex](https://github.com/Fren2804/Pipex) | [6.1 Explicación](#explicación-pipex) |
-| 🔄 [Push Swap](https://github.com/Fren2804/Push_Swap) | [7.1 Explicación](#explicación-push_swap) |
-| 🧠 [Exam02](#explicación-exam02) | [8.1 Explicación](#explicación-exam02) |
-| 🍝 [Philosophers](https://github.com/Fren2804/Philosophers) | [9.1 Explicación](#explicación-philosophers) |
-| 🐚 [Minishell](https://github.com/Fren2804/Minishell) | [10.1 Explicación](#explicación-minishell) |
-| 🧠 [Exam03](#explicación-exam03) | [11.1 Explicación](#explicación-exam03) |
-| 🧊 [Cub3D](https://github.com/Fren2804/cub3D) | [12.1 Explicación](#explicación-cub3d) |
-| 🌐 [NetPractice](#explicación-netpractice) | [13.1 Explicación](#explicación-netpractice) |
-| 🔵 [Circulo CPP 0-4](https://github.com/Fren2804/CPP-Module-0-4) | [14.1 Explicación](#explicación-cpp-module-0-4) |
-| 🧠 [Exam04](#exam04) | [15.1 Explicación](#explicación-exam04) |
-| 🟣 [Circulo CPP 5-9](https://github.com/Fren2804/CPP-Module-5-9) | [16.1 Explicación](#explicación-cpp-module-5-9) |
-| 🏗️ [Inception](https://github.com/Fren2804/Inception) | [17.1 Explicación](#explicación-inception) |
-| 💬 [IRC](https://github.com/Fren2804/Irc) | [18.1 Explicación](#explicación-irc) |
-| 🧠 [Exam05](#exam05) | [19.1 Explicación](#explicación-exam05) |
-| 🌌 [Transcendence](https://github.com/Fren2804/Transcendence) | [20.1 Explicación](#explicación-transcendence) |
-| 🧠 [Exam06](#exam06) | [21.1 Explicación](#explicación-exam06) |
-
-## Índice
-
-1. [Libft](https://github.com/Fren2804/Libft)🏠  
-   1.1 [Explicación](#explicación-libft)
-2. [Get_Next_Line](https://github.com/Fren2804/Get_Next_Line)🏠  
-   2.1 [Explicación](#explicación-get_next_line)
-3. [Ft_Printf](https://github.com/Fren2804/Ft_Printf)🏠  
-   3.1 [Explicación](#explicación-ft_printf)
-4. Born2beroot🏠  
-   4.1 [Explicación](#explicación-born2beroot)
-5. [Fdf](https://github.com/Fren2804/FDF)🏠  
-   5.1 [Explicación](#explicación-fdf)
-6. [Pipex](https://github.com/Fren2804/Pipex)🏠  
-   6.1 [Explicación](#explicación-pipex)
-7. [Push_Swap](https://github.com/Fren2804/Push_Swap)🏠  
-   7.1 [Explicación](#explicación-push_swap)
-8. Exam02🏠  
-   8.1 [Explicación](#explicación-exam02)
-9. [Philosophers](https://github.com/Fren2804/Philosophers)🏠  
-   9.1 [Explicación](#explicación-philosophers)
-10. [Minishell](https://github.com/Fren2804/Minishell)🏠  
-   10.1 [Explicación](#explicación-minishell)
-11. Exam03🏠  
-   11.1 [Explicación](#explicación-exam03)
-
+| 🧱 [Libft](https://github.com/Fren2804/Libft) | [Explicación](#explicación-libft) |
+| 📄 [Get Next Line](https://github.com/Fren2804/Get_Next_Line) | [Explicación](#explicación-get_next_line) |
+| 🖨️ [Ft_Printf](https://github.com/Fren2804/Ft_Printf) | [Explicación](#explicación-ft_printf) |
+| 🧑‍💻 [Born2beroot](#explicación-born2beroot) | [Explicación](#explicación-born2beroot) |
+| 🗺️ [Fdf](https://github.com/Fren2804/FDF) | [Explicación](#explicación-fdf) |
+| 🔗 [Pipex](https://github.com/Fren2804/Pipex) | [Explicación](#explicación-pipex) |
+| 🔄 [Push Swap](https://github.com/Fren2804/Push_Swap) | [Explicación](#explicación-push_swap) |
+| 🧠 [Exam02](#explicación-exam02) | [Explicación](#explicación-exam02) |
+| 🍝 [Philosophers](https://github.com/Fren2804/Philosophers) | [Explicación](#explicación-philosophers) |
+| 🐚 [Minishell](https://github.com/Fren2804/Minishell) | [Explicación](#explicación-minishell) |
+| 🧠 [Exam03](#explicación-exam03) | [Explicación](#explicación-exam03) |
+| 🧊 [Cub3D](https://github.com/Fren2804/cub3D) | [Explicación](#explicación-cub3d) |
+| 🌐 [NetPractice](#explicación-netpractice) | [Explicación](#explicación-netpractice) |
+| 🔵 [Circulo CPP 0-4](https://github.com/Fren2804/CPP-Module-0-4) | [Explicación](#explicación-cpp-module-0-4) |
+| 🧠 [Exam04](#exam04) | [Explicación](#explicación-exam04) |
+| 🟣 [Circulo CPP 5-9](https://github.com/Fren2804/CPP-Module-5-9) | [Explicación](#explicación-cpp-module-5-9) |
+| 🏗️ [Inception](https://github.com/Fren2804/Inception) | [Explicación](#explicación-inception) |
+| 💬 [IRC](https://github.com/Fren2804/Irc) | [Explicación](#explicación-irc) |
+| 🧠 [Exam05](#exam05) | [Explicación](#explicación-exam05) |
+| 🌌 [Transcendence](https://github.com/Fren2804/Transcendence) | [Explicación](#explicación-transcendence) |
+| 🧠 [Exam06](#exam06) | [Explicación](#explicación-exam06) |
 
 
 # Explicación
