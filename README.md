@@ -29,7 +29,7 @@ En cada repositorio encontrarás una implementación completa, con su propia doc
 |----------|-------------|----------------|
 | 🧱 [Libft](https://github.com/Fren2804/Libft) | [Explicación](#-explicación-libft) | Implementación desde cero de funciones estándar de C. |
 | 📄 [Get Next Line](https://github.com/Fren2804/Get_Next_Line) | [Explicación](#-explicación-get_next_line) | Lectura línea por línea desde un `file descriptor`. |
-| 🖨️ [Ft_Printf](https://github.com/Fren2804/Ft_Printf) | [Explicación](#-explicación-ft_printf) | Reimplementación de `printf` con flags, formatos y tipos. |
+| 📝 [Ft_Printf](https://github.com/Fren2804/Ft_Printf) | [Explicación](#-explicación-ft_printf) | Reimplementación de `printf` con flags, formatos y tipos. |
 | 🧑‍💻 [Born2beroot](#explicación-born2beroot) | [Explicación](#-explicación-born2beroot) | Configuración de servidores y administración en Linux. |
 
 ### 🧠 Proyectos Intermedios
@@ -135,7 +135,7 @@ En este proyecto solo se permiten **dos archivos `.c` y un `.h`**, y no se exige
 ---
 
 
-## 🖨️ Explicación Ft_Printf
+## 📝 Explicación Ft_Printf
 
 **Ft_Printf** es el tercer proyecto del campus 42.  
 En él, se nos pide **recrear la función `printf`**, pero implementándola como parte de una **librería**, lo que nos lleva nuevamente a crear un **Makefile** para gestionar la compilación y vinculación de los archivos.
