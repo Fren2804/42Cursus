@@ -39,8 +39,8 @@ En cada repositorio encontrarás una implementación completa, con su propia doc
 | 🗻 [FDF](https://github.com/Fren2804/FDF) | [Explicación](#-explicación-fdf) | Visualización 3D de mapas en wireframe usando MLX. |
 | 🔗 [Pipex](https://github.com/Fren2804/Pipex) | [Explicación](#-explicación-pipex) | Manejo de tuberías UNIX entre procesos. |
 | 🔄 [Push Swap](https://github.com/Fren2804/Push_Swap) | [Explicación](#-explicación-push_swap) | Algoritmo para ordenar con pila y operaciones limitadas. |
-| 🐚 [Minishell](https://github.com/Fren2804/Minishell) | [Explicación](#-explicación-minishell) | Shell personalizada que ejecuta comandos UNIX. |
 | 🍝 [Philosophers](https://github.com/Fren2804/Philosophers) | [Explicación](#-explicación-philosophers) | Resolución del problema de los filósofos con hilos. |
+| 🐚 [Minishell](https://github.com/Fren2804/Minishell) | [Explicación](#-explicación-minishell) | Shell personalizada que ejecuta comandos UNIX. |
 | 🧊 [Cub3D](https://github.com/Fren2804/cub3D) | [Explicación](#-explicación-cub3d) | Motor 3D estilo Wolfenstein con raycasting. |
 | 🌐 [NetPractice](#-explicación-netpractice) | [Explicación](#-explicación-netpractice) | Simulaciones de redes y resolución de topologías IP. |
 
@@ -348,8 +348,7 @@ El objetivo es evitar errores críticos como el **interbloqueo**, y asegurar que
 
 ### ✅ Resultado
 
-<!-- Imagen pendiente -->
-<!-- ![Philosophers Results](https://github.com/user-attachments/assets/tu-imagen-aqui) -->
+![Philosophers Results](https://github.com/user-attachments/assets/e4a08b20-febd-408a-8141-db090ac7198f)
 
 ---
 
