@@ -24,7 +24,7 @@ En cada repositorio encontrarás una implementación completa, con su propia doc
 
 | Proyecto | Explicación | 📝 Descripción |
 |----------|-------------|----------------|
-| 🧱 [Libft](https://github.com/Fren2804/Libft) | [Explicación](#explicación-libft) | Implementación desde cero de funciones estándar de C. |
+| 🧱 [Libft](https://github.com/Fren2804/Libft) | [Explicación](#🧱explicación-libft) | Implementación desde cero de funciones estándar de C. |
 | 📄 [Get Next Line](https://github.com/Fren2804/Get_Next_Line) | [Explicación](#explicación-get_next_line) | Lectura línea por línea desde un `file descriptor`. |
 | 🖨️ [Ft_Printf](https://github.com/Fren2804/Ft_Printf) | [Explicación](#explicación-ft_printf) | Reimplementación de `printf` con flags, formatos y tipos. |
 | 🧑‍💻 [Born2beroot](#explicación-born2beroot) | [Explicación](#explicación-born2beroot) | Configuración de servidores y administración en Linux. |
