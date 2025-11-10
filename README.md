@@ -135,7 +135,7 @@ En este proyecto solo se permiten **dos archivos `.c` y un `.h`**, y no se exige
 ---
 
 
-## Explicación Ft_Printf
+## 🖨️ Explicación Ft_Printf
 
 **Ft_Printf** es el tercer proyecto del campus 42.  
 En él, se nos pide **recrear la función `printf`**, pero implementándola como parte de una **librería**, lo que nos lleva nuevamente a crear un **Makefile** para gestionar la compilación y vinculación de los archivos.
