@@ -12,7 +12,7 @@ Bienvenido a mi repositorio del **Cursus 42**. Aquí encontrarás implementacion
 | Proyecto | Explicación | 📝 Descripción |
 |----------|-------------|----------------|
 | 🧱 [Libft](https://github.com/Fren2804/Libft) | [Explicación](#explicación-libft) | Implementación desde cero de funciones estándar de C. |
-| 📄 [Get Next Line](https://github.com/Fren2804/Get_Next_Line) | [Explicación](#explicación-get_next_line) | Lectura línea por línea desde un descriptor de archivo. |
+| 📄 [Get Next Line](https://github.com/Fren2804/Get_Next_Line) | [Explicación](#explicación-get_next_line) | Lectura línea por línea desde un `file descriptor`. |
 | 🖨️ [Ft_Printf](https://github.com/Fren2804/Ft_Printf) | [Explicación](#explicación-ft_printf) | Reimplementación de `printf` con flags, formatos y tipos. |
 | 🧑‍💻 [Born2beroot](#explicación-born2beroot) | [Explicación](#explicación-born2beroot) | Configuración de servidores y administración en Linux. |
 
@@ -174,112 +174,206 @@ El proyecto hace hincapié en la **seguridad del sistema**, enseñando cómo pro
 
 ![Born2beroot Results](https://github.com/user-attachments/assets/01201ea8-6903-4b34-80fe-6bd01c795fe2)
 
-## Explicación Fdf
+## 🗺️ Explicación FDF
 
-El proyecto FDF ya pertenece al nuevo círculo, donde se nos permite y se espera que utilicemos nuestra biblioteca libft, así como las funciones get_next_line y ft_printf que implementamos en proyectos anteriores. Además, este proyecto nos introduce a una nueva herramienta: la MiniLibX, una biblioteca gráfica sencilla diseñada para renderizar gráficos en 2D y 3D.
+**FDF** marca el inicio del nuevo círculo de proyectos, donde se espera que integremos nuestras librerías anteriores:  
+`libft`, `get_next_line` y `ft_printf`.
 
-El objetivo principal de este proyecto es leer un archivo que contiene un mapa con altitudes (y opcionalmente colores) y representarlo de forma gráfica en un entorno 3D utilizando proyecciones isométricas. Para lograrlo, debemos procesar correctamente los datos del archivo, interpretar las coordenadas y pintar los puntos en la ventana gráfica de MiniLibX.
+Este proyecto introduce por primera vez el uso de **MiniLibX**, una biblioteca gráfica simple para renderizar gráficos 2D/3D.
 
-Este proyecto nos ayuda a profundizar en la manipulación de datos espaciales, las transformaciones geométricas y cómo renderizar elementos en una interfaz gráfica básica. Además, pone a prueba nuestras habilidades para integrar varias bibliotecas y reforzar conceptos clave de la programación estructurada.
+---
 
-## Resultado Fdf
+### 🧠 ¿Qué se aprende?
+
+- Lectura y procesamiento de archivos con datos espaciales.
+- Interpretación de coordenadas y alturas (Z) desde un mapa.
+- Uso de **proyecciones isométricas** para renderizar en 3D.
+- Transformaciones geométricas (rotación, escalado, traslación).
+- Dibujo de líneas (algoritmo de Bresenham) con MiniLibX.
+- Integración de múltiples librerías propias.
+
+Este proyecto es clave para entender los fundamentos de los **motores gráficos**, la representación en 2D de un espacio tridimensional y cómo interactuar con una **ventana gráfica** para visualizar datos complejos.
+
+---
+
+### ✅ Resultado
 
 ![FDF Results](https://github.com/user-attachments/assets/5f6202fa-6891-4383-a12e-2b66a334d3f2)
 
-## Repositorio Fdf
+---
 
-https://github.com/Fren2804/Fdf
+### 📁 Repositorio
 
-## Explicación Pipex
+🔗 [https://github.com/Fren2804/Fdf](https://github.com/Fren2804/Fdf)
 
-El objetivo principal de este proyecto es comprender el funcionamiento de los procesos y la comunicación entre ellos, especialmente cómo la shell ejecuta los comandos y gestiona los errores. Nos adentramos en el uso de los pipes y las llamadas al sistema como fork, execve, dup2 y wait, fundamentales para la programación en C a nivel de sistema.
+---
 
-Durante este proyecto, debemos implementar un programa que simule el comportamiento de la shell cuando encadenamos comandos usando el operador | (pipe). Esto implica redirigir las entradas y salidas estándar, gestionar correctamente la duplicación de descriptores de archivo y asegurarnos de que los errores se manejen de forma clara y robusta.
 
-Además, nos obliga a reforzar nuestra comprensión de la gestión de procesos en Unix/Linux y cómo los programas pueden comunicarse mediante pipes para trabajar en conjunto. Es un paso clave para desarrollar herramientas más complejas y aprender cómo funcionan los procesos en segundo plano y la ejecución de comandos en sistemas Unix.
+## 🔗 Explicación Pipex
 
-## Resultado Pipex
+**Pipex** es un proyecto centrado en comprender cómo funciona la **ejecución de comandos en la shell**, especialmente el uso del operador `|` (pipe), que permite conectar la salida de un programa con la entrada de otro.
+
+Para ello, trabajamos con **llamadas al sistema clave** como `fork`, `execve`, `dup2`, `pipe` y `wait`, que forman la base de la programación a nivel de sistema en entornos Unix.
+
+---
+
+### 🧠 ¿Qué se aprende?
+
+- Creación y gestión de procesos con `fork`.
+- Comunicación entre procesos mediante `pipe`.
+- Redirección de entrada y salida estándar (`dup2`).
+- Ejecución de comandos externos con `execve`.
+- Gestión de errores robusta y control de permisos.
+- Comprensión de cómo se comporta internamente una shell.
+
+Este proyecto sienta las bases para crear herramientas que funcionen como la terminal, permitiendo simular el encadenamiento de comandos y el manejo avanzado de procesos.
+
+---
+
+### ✅ Resultado
 
 ![Pipex Results](https://github.com/user-attachments/assets/967b3616-dace-4b41-912f-2f36b2a709bc)
 
-## Repositorio Pipex
+---
 
-https://github.com/Fren2804/Pipex
+### 📁 Repositorio
 
-## Explicación Push_Swap
+🔗 [https://github.com/Fren2804/Pipex](https://github.com/Fren2804/Pipex)
 
-Este proyecto tiene como objetivo desarrollar un algoritmo eficiente para ordenar una pila de números utilizando un conjunto limitado de operaciones, simulando el comportamiento de un sistema de ordenación específico.
+---
 
-En Push_Swap trabajamos con dos pilas (A y B) y disponemos de un conjunto de instrucciones básicas (sa, sb, pa, pb, ra, rb, rra, rrb, rr, rrr) que nos permiten realizar operaciones de intercambio, rotación y transferencia entre las pilas. La clave del proyecto es encontrar el algoritmo más eficiente posible, minimizando la cantidad de movimientos necesarios para ordenar completamente la pila A.
+### 📁 Repositorio Tester_Pipex
 
-Este proyecto nos obliga a pensar de manera lógica y estratégica, aplicando conceptos de algoritmos de ordenación y optimización. Además, refuerza nuestras habilidades en el manejo de estructuras de datos (pilas y listas enlazadas) y nos enseña la importancia de la eficiencia en la programación.
+🔗 [https://github.com/Fren2804/Pipex](https://github.com/Fren2804/42_pipex_tester)
 
-## Resultado Push_Swap
+---
+
+
+## 🔄 Explicación Push_Swap
+
+**Push Swap** es un proyecto centrado en la **resolución eficiente de algoritmos de ordenación**, utilizando un sistema limitado de instrucciones sobre dos pilas: **A** y **B**.
+
+El objetivo es ordenar los elementos de la pila **A** usando el **menor número posible de movimientos**, aplicando únicamente un conjunto específico de operaciones como `sa`, `pb`, `ra`, `rrr`, entre otras.
+
+---
+
+### 🧠 ¿Qué se aprende?
+
+- Implementación y gestión de **estructuras de datos** como pilas y listas enlazadas.
+- Diseño de algoritmos de ordenación adaptados a restricciones impuestas.
+- Pensamiento **algorítmico y estratégico** para minimizar pasos.
+- Optimización de código bajo limitaciones de rendimiento.
+- Toma de decisiones en tiempo real para elegir la operación más eficiente.
+
+Este proyecto es un reto clave para desarrollar habilidades en **resolución de problemas**, lógica algorítmica y eficiencia computacional. Nos obliga a encontrar soluciones rápidas, limpias y efectivas.
+
+---
+
+### ✅ Resultado
 
 ![Push Swap Results](https://github.com/user-attachments/assets/732e2423-e6b7-4930-be7f-2d1071cca999)
 
+---
 
-## Repositorio Push_Swap
+### 📁 Repositorio
 
-https://github.com/Fren2804/Push_Swap
+🔗 [https://github.com/Fren2804/Push_Swap](https://github.com/Fren2804/Push_Swap)
 
-## Explicación Exam02
+---
 
-En este primer examen, nos enfrentamos a 4 ejercicios aleatorios de distintos niveles de dificultad, ordenados de menor a mayor. Cada uno de estos ejercicios pone a prueba conceptos clave de C y nuestra capacidad para escribir código eficiente y correcto bajo presión.
 
-   Mis ejercicios fueron:
+## 🧠 Explicación Exam02
 
-⚫ Ejercicio 1 - Rotone
+**Exam02** es el primer examen del cursus, donde nos enfrentamos a **4 ejercicios aleatorios** de dificultad creciente. El reto consiste en resolverlos en un tiempo limitado y bajo presión, con corrección automática tras cada entrega.
 
-En este ejercicio, se nos pide rotar cada carácter al siguiente en el alfabeto, de modo que 'a' se convierte en 'b' y 'Z' en 'A'.
+---
 
-⚫ Ejercicio 2 - Reverse bits
+### 🧠 Ejercicios que me tocaron
 
-Aquí se trata de invertir los 8 bits de un número. Por ejemplo, el valor 0010 0110 debe transformarse en 0110 0010.
+🔹 **Ejercicio 1 - Rotone**  
+Rotar cada letra al siguiente carácter del alfabeto. `'a' → 'b'`, `'Z' → 'A'`.
 
-⚫ Ejercicio 3 - Atoi_base
+🔹 **Ejercicio 2 - Reverse bits**  
+Invertir los 8 bits de un número. Por ejemplo: `00100110 → 01100010`.
 
-Este fue el más desafiante para mí, ya que al principio no tuve en cuenta que la base podía contener letras mayúsculas y minúsculas simultáneamente (por ejemplo, 1aA es válido). Tuve que convertir una cadena en un número entero usando cualquier base que pasaran, lo que implica manejar la validación y conversión de caracteres de forma cuidadosa.
+🔹 **Ejercicio 3 - Atoi_base**  
+Convertir una cadena a entero usando cualquier base válida (por ejemplo, `1aA` en base alfanumérica).
 
-⚫ Ejercicio 4 - Itoa
+🔹 **Ejercicio 4 - Itoa**  
+Convertir un número entero a string, teniendo en cuenta casos especiales como `INT_MIN`.
 
-Finalmente, el itoa consiste en convertir un número entero en una cadena de caracteres, respetando los signos y teniendo en cuenta el valor mínimo de los enteros (caso especial de INT_MIN en C).
+---
 
-## Resultado Exam02
+### ✅ Resultado
 
 ![Exam02 Results](https://github.com/user-attachments/assets/b3579911-ac15-40bb-a538-f8d93efe81d5)
 
-## Explicación Philosophers
+---
 
-El objetivo principal de este proyecto es comprender el funcionamiento de los hilos (threads), la sincronización entre ellos y los problemas clásicos de concurrencia, como el de los filósofos comensales.
 
-Durante este proyecto, debemos implementar una simulación del problema de los filósofos comensales, en el que varios filósofos se sientan alrededor de una mesa con un tenedor por cada filósofo. Y cada filósofo necesita dos tenedores para poder comer, lo que nos obliga a gestionar cuidadosamente el acceso concurrente a los recursos compartidos usando mutexes.
+## 🍝 Explicación Philosophers
 
-El proyecto se centra en aprender a evitar condiciones de carrera (race conditions), interbloqueos (deadlocks) y otros errores comunes en la programación concurrente. Esto se logra utilizando herramientas como pthread_create, pthread_mutex_lock, pthread_mutex_unlock, y otras funciones de la biblioteca pthread.
+**Philosophers** es un proyecto orientado a comprender la **programación concurrente**, utilizando hilos y sincronización de recursos compartidos. Se basa en el clásico problema de los **filósofos comensales**.
 
-## Resultado Philosophers
+---
 
-<!-- ![Pipex Results](https://github.com/user-attachments/assets/967b3616-dace-4b41-912f-2f36b2a709bc) -->
+### 🧠 ¿Qué se aprende?
 
-## Repositorio Philosophers
+- Uso de **hilos (threads)** con `pthread_create`.
+- Sincronización mediante **mutexes** (`pthread_mutex_lock`, `unlock`).
+- Prevención de **deadlocks** y **race conditions**.
+- Control del tiempo y simulación precisa.
+- Diseño de sistemas donde múltiples procesos compiten por recursos limitados.
 
-https://github.com/Fren2804/Philosophers
+El objetivo es evitar errores críticos como el **interbloqueo**, y asegurar que cada filósofo pueda comer de forma segura y sin hambruna indefinida.
 
-## Explicación Minishell
+---
 
-El objetivo principal de este proyecto es implementar una versión simplificada de una shell de Unix (siguiendo el funcionamiento de como lo hace bash), permitiéndonos comprender cómo funciona internamente una shell real.
+### ✅ Resultado
 
-Durante este proyecto, debemos gestionar la lectura de comandos del usuario, su interpretación (parsing), la ejecución de comandos internos, los built-in (como cd, echo, export, etc.) y externos, el manejo de variables de entorno, la redirección de entrada/salida (<, >, >>), los heredoc (<<), los pipes (|), y la gestión de señales (como Ctrl+C, Ctrl+\ y Ctrl+D).
+<!-- Imagen pendiente -->
+<!-- ![Philosophers Results](https://github.com/user-attachments/assets/tu-imagen-aqui) -->
 
-Esto implica un uso intensivo de llamadas al sistema como fork, execve, pipe, dup2, waitpid, así como estructuras de datos para organizar y ejecutar los comandos de forma correcta y robusta.
+---
 
-Minishell es un proyecto clave para profundizar en la programación de bajo nivel en C, entender cómo los procesos y la comunicación entre ellos funcionan, y reforzar la lógica detrás de la construcción de herramientas similares a las que usamos diariamente en la terminal.
+### 📁 Repositorio
 
-## Resultado Minishell
+🔗 [https://github.com/Fren2804/Philosophers](https://github.com/Fren2804/Philosophers)
 
-<!-- ![Pipex Results](https://github.com/user-attachments/assets/967b3616-dace-4b41-912f-2f36b2a709bc) -->
+---
 
-## Repositorio Minishell
 
-https://github.com/Fren2804/Minishell
+## 🐚 Explicación Minishell
+
+**Minishell** es uno de los proyectos más importantes del cursus.  
+Consiste en crear una **shell funcional** capaz de ejecutar comandos, replicando muchas de las funcionalidades de `bash`.
+
+---
+
+### 🧠 ¿Qué se aprende?
+
+- Lectura y **parsing de comandos** del usuario.
+- Implementación de **built-ins** como `cd`, `echo`, `export`, etc.
+- Redirecciones (`>`, `>>`, `<`), **heredocs** (`<<`) y **pipes** (`|`).
+- Manejo de **variables de entorno**.
+- Gestión avanzada de **señales** (`Ctrl+C`, `Ctrl+\`, `Ctrl+D`).
+- Uso intensivo de llamadas al sistema: `fork`, `execve`, `pipe`, `dup2`, `waitpid`.
+
+Este proyecto enseña cómo funcionan **los procesos, la entrada/salida y la comunicación entre ellos**, simulando el funcionamiento real de una terminal.
+
+---
+
+### ✅ Resultado
+
+<!-- Imagen pendiente -->
+<!-- ![Minishell Results](https://github.com/user-attachments/assets/tu-imagen-aqui) -->
+
+---
+
+### 📁 Repositorio
+
+🔗 [https://github.com/Fren2804/Minishell](https://github.com/Fren2804/Minishell)
+
+---
+
 
