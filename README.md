@@ -394,6 +394,7 @@ Este proyecto enseña cómo funcionan **los procesos, la entrada/salida y la com
 ## 🧠 Explicación Exam03
 
 **Exam03** es el segundo examen del cursus, nos enfrentamos a un GNL o Printf
+
 ---
 
 ### 🧠 Ejercicio que me tocó
@@ -426,7 +427,7 @@ Este proyecto representa un paso clave hacia el desarrollo de **motores gráfico
 
 ### ✅ Resultado
 
-![Cub3D Results](https://github.com/user-attachments/assets/tu-id-de-imagen-aquí)
+![Cub3D Results](https://github.com/user-attachments/assets/5cc49c8d-464a-4775-8cf2-c855be1a775c)
 
 ---
 
@@ -458,7 +459,8 @@ Para el entendimiento y cálculo de redes, subredes e ips válidas use esta pág
 
 ### ✅ Resultado
 
-![NetPractice Results](https://github.com/user-attachments/assets/tu-id-de-imagen-aquí)
+![NetPractice Results](https://github.com/user-attachments/assets/f6fe31cc-d508-4263-9351-f7a9b422bba2)
+
 
 ---
 
